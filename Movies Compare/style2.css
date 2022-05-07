@@ -1,0 +1,59 @@
+body
+{
+    background-color: #d9d9d9 ;
+}
+
+.head1
+{
+    border-bottom: 3px inset grey ;
+    margin-left: 20px ;
+    text-align: center
+}
+
+
+
+.div1, .div2, .div3, .div4, .div5, .div6
+{
+    height: 800px ;
+    width: 300px ;
+    float: left ;
+    margin: 70px ;
+    border-radius: 10px ;
+    padding: 10px ;
+    
+}
+
+video
+{
+    margin-left: 30px ;
+}
+
+.div1
+{
+    background-color: darkgray ;
+}
+
+.div2
+{
+    background-color: blanchedalmond ;
+}
+
+.div3
+{
+    background-color: #339966 ;
+}
+
+.div4
+{
+    background-color:  #ff6666 ;
+}
+
+.div5
+{
+   background-color: #db70b8 ; 
+}
+
+.div6
+{
+    background-color: #80ccff ;
+}
